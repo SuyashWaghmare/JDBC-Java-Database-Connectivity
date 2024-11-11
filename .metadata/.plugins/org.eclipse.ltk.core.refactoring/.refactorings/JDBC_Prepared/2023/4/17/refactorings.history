@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.cjc.InsertData&apos; to &apos;CreateTable&apos;&#x0D;&#x0A;- Original project: &apos;JDBC_Prepared&apos;&#x0D;&#x0A;- Original element: &apos;com.cjc.InsertData&apos;&#x0D;&#x0A;- Renamed element: &apos;com.cjc.CreateTable&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;InsertData&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.cjc{InsertData.java[InsertData" matchStrategy="1" name="CreateTable" qualified="false" references="true" similarDeclarations="false" stamp="1682585128820" textual="false" version="1.0"/>
+</session>

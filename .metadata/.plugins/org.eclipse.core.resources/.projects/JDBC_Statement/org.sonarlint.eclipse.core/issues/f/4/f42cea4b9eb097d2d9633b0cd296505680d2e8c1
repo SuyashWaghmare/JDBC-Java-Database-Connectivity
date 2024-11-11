@@ -1,0 +1,9 @@
+
+„	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b c926b16943f1c0bdcee853337781264ah
+|
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.b 7010688ed812351a0ca645561ccec0f1h
+{
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.b ba2e6ba8d305e7a59866d28630b665d2h
+j
+java:S6437"6Revoke and change this password, as it is compromised.b eb76094059feda9f811de9a47a1307ach
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
